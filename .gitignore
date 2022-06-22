@@ -6,3 +6,5 @@ __pycache__/
 local_settings.py
 /static/
 portfolio_project/__pycache__/settings.cpython-310.pyc
+/venv/
+/.idea/
